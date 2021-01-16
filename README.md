@@ -13,4 +13,5 @@ text format. It also contains a feature that indicates that review is positive o
 positive review can de indicate by 1 and a negative review is indicated by 0.This dataset
 contains 1000 reviews.
 
+I have also used Naive bais Algorithm to predict the reviews and obltained 73% of accuracy.
 
